@@ -17,4 +17,8 @@ BackOffice :
 Tests unitaires et fonctionnels :
  - Tests unitaires des routes de l’API sur Insomnia
 
+Login appli : email = usersio@test.fr
+              password = password
+Login Database : username = usersio
+                 Password = pwsio
 
